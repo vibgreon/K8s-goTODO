@@ -9,6 +9,9 @@ TODO application coded in Golang and deployed in Kubernetes
   
   ## About
   
+  [![CodeQL](https://github.com/vibgreon/K8s-goTODO/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/vibgreon/K8s-goTODO/actions/workflows/codeql-analysis.yml)
+  [![Go](https://github.com/vibgreon/K8s-goTODO/actions/workflows/go.yml/badge.svg)](https://github.com/vibgreon/K8s-goTODO/actions/workflows/go.yml)
+  
   This is project is TODO application coded in Golang and deployed in Kubernetes.
   
   ## License
