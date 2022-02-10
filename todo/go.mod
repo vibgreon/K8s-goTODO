@@ -1,4 +1,4 @@
-module github.com/alexellis/todo1/todo
+module github.com/K8s-goTODO/todo
 
 go 1.13
 
