@@ -1,9 +1,11 @@
-<center>
-  <img src="assets/undraw_next_tasks_re_5eyy.svg" />
-  <br>
-  <h1> K8s-goTODO </h1>
-  <p>This is project is TODO application coded in Golang and deployed in Kubernetes.</p>
-</center>
+<div align="center">
+<img src="assets/undraw_next_tasks_re_5eyy.svg" height="auto" width="400" />
+<br />
+<h1>K8s-goTODO</h1>
+<p>
+TODO application coded in Golang and deployed in Kubernetes
+</p>
+</div>
   
   ## About
   
