@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/undraw_next_tasks_re_5eyy.svg" height="auto" width="400" />
 <br />
-<h1>K8s-goTODO</h1>
+<h1>K8s goTODO</h1>
 <p>
 TODO application coded in Golang and deployed in Kubernetes
 </p>
